@@ -1,2 +1,2 @@
-# WP Reinstall Themes
-A simple plugin to allow themes re-installation.
+# Reinstall Themes
+A simple plugin to allow WordPress themes re-installation.
