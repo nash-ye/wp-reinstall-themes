@@ -8,8 +8,9 @@
 class Reinstall_Themes {
     /**
      * @since 0.1
+     * @access private
      */
-    public function __construct() {
+    private function __construct() {
 	add_filter( 'upgrader_package_options', array( $this, 'filter_upgrader_package_options' ) );
     }
 
